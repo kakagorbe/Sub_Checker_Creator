@@ -28,7 +28,7 @@ with open(CONF_PATH,"r") as file_client_set:
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
 LINK_PATH=[ "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt" , "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy" , "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt" , "https://shadowmere.xyz/api/b64sub/" ] # [ "" , "" , ... ]
-FIN_PATH="final.txt"
+FIN_PATH="Mehraban.txt"
 FIN_CONF=[]
 CHECK_LOC=True
 CHECK_IRAN=True
@@ -1957,8 +1957,8 @@ def save_sorted_configs(configs: list):
     """
     if not configs:
         print("هیچ کانفیگ موفقی برای ذخیره‌سازی یافت نشد.")
-        open("final.txt", 'w').close()
-        open("final_b64.txt", 'w').close()
+        open("Mehraban.txt", 'w').close()
+        open("Mehraban_b64.txt", 'w').close()
         return
 
     configs_by_protocol = {}
@@ -2014,8 +2014,8 @@ def save_sorted_configs(configs: list):
             print(f"خطا در نوشتن فایل '{filepath}': {e}")
 
     # --- بخش ذخیره‌سازی (با تغییر کوچک) ---
-    write_to_file("final.txt", configs)
-    write_to_file("final_b64.txt", [base64.b64encode(c.encode('utf-8')).decode('utf-8') for c in configs])
+    write_to_file("Mehraban.txt", configs)
+    write_to_file("Mehrabanb_64.txt", [base64.b64encode(c.encode('utf-8')).decode('utf-8') for c in configs])
 
     for protocol, proto_configs in configs_by_protocol.items():
         write_to_file(f"{protocol}.txt", proto_configs)
@@ -2049,7 +2049,7 @@ if len(LINK_PATH) != 0:
 cleaned_configs = clear_p(all_configs_raw)
 
 # مرحله ۳: تنظیم تگ اولیه برای تمام کانفیگ‌ها
-tagged_configs = set_initial_tag(cleaned_configs, "hamedp71")
+tagged_configs = set_initial_tag(cleaned_configs, "MehrabanC99")
 
 # مرحله ۴: نوشتن کانفیگ‌های آماده شده در فایل ورودی برای تستر
 print(f"در حال نوشتن {len(tagged_configs)} کانفیگ آماده تست در فایل '{TEXT_PATH}'...")
@@ -2065,6 +2065,7 @@ save_sorted_configs(FIN_CONF)
 
 print("پردازش با موفقیت به پایان رسید.")
 exit()
+
 
 
 
