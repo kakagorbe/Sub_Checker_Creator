@@ -1,6 +1,1 @@
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#MehrabanC99%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@thailandnet65.ir:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#MehrabanC99%3A%3A%E2%9D%93
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#MehrabanC99%3A%3A%E2%9D%93
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=&encryption=none&type=grpc#MehrabanC99%3A%3A%E2%9D%93
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#MehrabanC99%3A%3A%E2%9D%93
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.29:8880?&fp=chrome&sni=hk.laoyoutiao.link&type=ws&headerType=none&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#MehrabanC99%3A%3A%E2%9D%93
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?encryption=none&security=none&type=grpc#MehrabanC99%3A%3A%E2%9D%93
