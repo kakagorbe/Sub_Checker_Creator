@@ -27,7 +27,7 @@ with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
-LINK_PATH=[ "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt" , "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy" , "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt" , "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)" ] # [ "" , "" , ... ]
+LINK_PATH=["https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt" , "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy" , "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt" , "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)" ,"https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy" , "https://dark-fog-edgetunnel.madayyrtyu.workers.dev/3d295138-d268-444a-934f-fc226599a7ff?sub#3d295138-d268-444a-934f-fc226599a7ff?sub" , "https://v2.alicivil.workers.dev"] # [ "" , "" , ... ]
 FIN_PATH="Mehraban.txt"
 FIN_CONF=[]
 CHECK_LOC=True
@@ -2065,6 +2065,7 @@ save_sorted_configs(FIN_CONF)
 
 print("پردازش با موفقیت به پایان رسید.")
 exit()
+
 
 
 
