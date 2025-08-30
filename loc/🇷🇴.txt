@@ -1,1 +1,0 @@
-vless://jrghxqxyoy@npmjs.com:2053?path=%2Fdownload%2Fcdn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jrghxqxyoy-518237151.zamam.co&fp=randomized&type=httpupgrade&sni=jrghxqxyoy-518237151.zamam.co#MehrabanC99%3A%3A%F0%9F%87%B7%F0%9F%87%B4

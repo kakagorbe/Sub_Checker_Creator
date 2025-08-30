@@ -1,3 +1,2 @@
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiTWVocmFiYW5DOTk6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#MehrabanC99%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#MehrabanC99%3A%3A%F0%9F%87%AC%F0%9F%87%A7
